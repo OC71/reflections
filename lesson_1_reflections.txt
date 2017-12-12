@@ -25,4 +25,9 @@ git status: shows which files have changed since the last commit
 
 What happens when you initialize a repository? Why do you need to do it?
 
+git add: to add files to the staging area
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+
 
